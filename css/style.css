@@ -13,7 +13,7 @@ html,body{
 	position: absolute;
 }
 .hero{
-	background: url('file:///E:/NTU/Programming/Projects/Web%20Dev/Web%20Portfolio/vid/background.gif');
+	background: url('vid/background.gif');
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
